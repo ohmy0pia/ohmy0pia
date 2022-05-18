@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/102551141/168932447-992dbeda-9c7e-4050-9362-9b3397d2a096.png)
+![GitHub-logo2](https://user-images.githubusercontent.com/102551141/168937953-444f1ba8-8a43-4f1b-ac82-112b69c1a78f.png)
 
 Hi!  
 My name is Ulises and I'm a software engineer, would you like to know more?
