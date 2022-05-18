@@ -11,6 +11,6 @@ Skills: REACT / NODE / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ohmy0pia&theme=dark&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ohmy0pia)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ohmy0pia&theme=dark)  
 
 
